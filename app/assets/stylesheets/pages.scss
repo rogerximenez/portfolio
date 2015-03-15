@@ -1,0 +1,21 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.main {
+	background: url(beach.jpeg);
+	text-align: center;
+	height: 550px;
+	padding-top: 150px;
+}
+
+.btn, .btn:hover {
+	padding: 10px 30px;
+	background-color: #000;
+	color: #fff;
+	border-radius: 0px;
+}
+
+.footer{
+	margin:0 auto;
+	float:right;
+}
